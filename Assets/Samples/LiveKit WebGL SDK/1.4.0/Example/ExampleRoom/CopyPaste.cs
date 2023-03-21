@@ -10,7 +10,7 @@ using UnityEngine;
  */
 public class CopyPaste
 {
-    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterAssembliesLoaded)]
+    //[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.AfterAssembliesLoaded)]
     private static void Init()
     {
         InitCopyPaste(PasteReceived);
