@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/LiveKit WebGL SDK/1.4.0/Example/ExampleRoom/JoinScene.unity
+    guid: bb44dd56904b83c458715961d83b5530
+  - enabled: 1
+    path: Assets/Samples/LiveKit WebGL SDK/1.4.0/Example/ExampleRoom/RoomScene.unity
+    guid: a32acf433673f6a4bb20365f3c51c040
   m_configObjects: {}
